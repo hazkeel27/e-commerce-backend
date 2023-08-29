@@ -97,4 +97,4 @@ You can view my projects by going through my GitHub profile at [https://github.c
 
 ## <a name="link"></a>Deployed Application 🚀
 
-[https://github.com/hazkeel27/e-commerce-backend.git](https://github.com/hazkeel27/e-commerce-backend.git)
+[https://hazkeel27.github.io/e-commerce-backend/](https://hazkeel27.github.io/e-commerce-backend/)
