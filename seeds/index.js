@@ -5,6 +5,7 @@ const seedProductTags = require('./product-tag-seeds');
 
 const sequelize = require('../config/connection');
 
+// seed all data to tables
 const seedAll = async () => {
   await sequelize.sync({ force: true });
   console.log('\n----- DATABASE SYNCED -----\n');

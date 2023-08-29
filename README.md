@@ -80,13 +80,13 @@ I utilized the study material provided by the institution as a reference to comp
 
 Following are the documents I used to help me write code:
 
-[npm documentation on dotenv](https://www.npmjs.com/package/dotenv)
-[Sequelize documentation on model querying basics](https://sequelize.org/master/manual/model-querying-basics.html)
-[Sequelize documentation on validations and constraints](https://sequelize.org/master/manual/validations-and-constraints.html)
-[npm documentation on bcrypt](https://www.npmjs.com/package/bcrypt)
-[Sequelize documentation on associations](https://sequelize.org/master/manual/assocs.html)
-[Sequelize documentation on many-to-many relationships](https://sequelize.org/master/manual/assocs.html#many-to-many-relationships)
-[The Full-Stack Blog guide to deploying with Heroku and MySQL](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
+- [npm documentation on dotenv](https://www.npmjs.com/package/dotenv)
+- [Sequelize documentation on model querying basics](https://sequelize.org/master/manual/model-querying-basics.html)
+- [Sequelize documentation on validations and constraints](https://sequelize.org/master/manual/validations-and-constraints.html)
+- [npm documentation on bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Sequelize documentation on associations](https://sequelize.org/master/manual/assocs.html)
+- [Sequelize documentation on many-to-many relationships](https://sequelize.org/master/manual/assocs.html#many-to-many-relationships)
+- [The Full-Stack Blog guide to deploying with Heroku and MySQL](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
 
 
 ## <a name="questions"></a>Questions ❓

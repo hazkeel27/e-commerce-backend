@@ -1,5 +1,6 @@
 const { ProductTag } = require('../models');
 
+//product_tag table data
 const productTagData = [
   {
     product_id: 1,
